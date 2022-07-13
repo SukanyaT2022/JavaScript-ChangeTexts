@@ -1,0 +1,14 @@
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.wraper{
+    border: 1px solid black ;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+
+
+}
